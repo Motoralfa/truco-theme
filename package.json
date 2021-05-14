@@ -3,11 +3,24 @@
     "displayName": "Truco",
     "description": "Truco theme by Motoralfa",
     "version": "0.0.1",
+    "publisher": "Motoralfa",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "truco",
+        "motoralfa",
+        "argentina",
+        "argentino",
+        "truco argentino",
+        "poker",
+        "naipes",
+        "cartas"
     ],
     "contributes": {
         "themes": [
