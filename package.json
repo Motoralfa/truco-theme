@@ -2,7 +2,7 @@
     "name": "motoralfa-truco",
     "displayName": "Truco",
     "description": "Truco theme by Motoralfa",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Motoralfa",
     "engines": {
         "vscode": "^1.56.0"
@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/Motoralfa/truco-theme.git"
+    },
+    "icon": "icon.png",
     "keywords": [
         "theme",
         "dark theme",
