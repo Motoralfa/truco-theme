@@ -1,0 +1,21 @@
+{
+    "name": "motoralfa-truco",
+    "displayName": "Truco",
+    "description": "Truco theme by Motoralfa",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Truco",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Truco-color-theme.json"
+            }
+        ]
+    }
+}
